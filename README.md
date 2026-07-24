@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Prachi 👋
 
-<!--
-**prachh11/prachh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Second-Year Cybersecurity Student from India 🇮🇳
 
-Here are some ideas to get you started:
+## 🔐 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python, Linux, Git & GitHub
+- 🚩 Exploring CTFs and Cybersecurity
+- 💻 Building projects to improve my skills
+- 🎯 Goal: Become a Cybersecurity Professional
+
+## 🛠️ Skills
+
+- C
+- Python
+- Git & GitHub
+- Linux
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/prachi-marla-69171b391/)
+- 💻 [GitHub](https://github.com/prachh11)
+
+⭐ Thanks for visiting my profile!
